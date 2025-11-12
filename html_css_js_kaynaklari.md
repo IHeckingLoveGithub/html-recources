@@ -7,6 +7,7 @@ Bu liste, kopyala-yapıştır için HTML, CSS ve JS kod parçaları, butonlar, a
 ## Kod Parçaları / Snippet Siteleri
 
 1. [CodePen](https://codepen.io/) - HTML, CSS ve JS denemeleri için canlı ön yüz platformu. Kodları “Fork” ile kopyalayabilirsiniz.  
+   https://codepen.io/blacklead-studio/pen/xbwaqxE -> güzel bir kod parçası
 2. [CodeMyUI](https://codemyui.com/) - Buton, slider, loader ve animasyon gibi seçilmiş UI parçaları.  
 3. [FreeFrontend](https://freefrontend.com/) - Slider, form, buton gibi kategorize edilmiş küçük bileşenler.  
 4. [CSS-Tricks Snippets](https://css-tricks.com/snippets/) - Kullanışlı CSS ve HTML kod parçaları.  
